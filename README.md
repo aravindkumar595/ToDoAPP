@@ -32,6 +32,10 @@ SQLite
 
 HTML
 
+CSS
+
+Bootstrap
+
 Project Structure
 DjangoTodoApp/
 ├── todo/
@@ -83,9 +87,10 @@ Open in browser
 
 http://127.0.0.1:8000/
 
+SNAPSHOTS:
 
+<img width="1859" height="451" alt="Screenshot 2025-12-26 161407" src="https://github.com/user-attachments/assets/074d80f3-3370-489c-a00b-9c45da120917" />
 
+<img width="1184" height="649" alt="Screenshot 2025-12-26 161433" src="https://github.com/user-attachments/assets/e3a065f2-69b4-42c9-8cea-05939d76b7f1" />
 
-CSS
-
-Bootstrap
+<img width="828" height="459" alt="Screenshot 2025-12-26 161452" src="https://github.com/user-attachments/assets/b6a26e04-c93b-4909-8ed2-a9a7a41f4e44" />
